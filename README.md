@@ -1,0 +1,2 @@
+# paroto_PhamThiMyDuyen_QTKD2
+parroto practice submission
